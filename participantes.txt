@@ -1,10 +1,18 @@
 Ya hice push -Ian
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ya hice push -Christopher
+=======
+Ya hice push -AndresMonter
+>>>>>>> d945081d32afe813520cc6f43b17d8680f599333
 =======
 <<<<<<< HEAD
 Ya hice push -Mario
 =======
 Ya hice push -Paulina XD
 >>>>>>> 496ac8a97c4b0fa7472900dc1d09e92abb6f7797
+<<<<<<< HEAD
 >>>>>>> 2f1b3c07e232f5830cabecc075d7a368c403fd5f
+=======
+>>>>>>> 379ce881c7e81f3ae8f9923ac487af75e0123fba
+>>>>>>> d945081d32afe813520cc6f43b17d8680f599333
