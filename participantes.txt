@@ -1,5 +1,24 @@
 Ya hice push -Ian
+<<<<<<< HEAD
 Ya hice push -Paulina XD
 
 
 Hice push - Aimee
+=======
+<<<<<<< HEAD
+Ya hice push -AndresMonter
+=======
+<<<<<<< HEAD
+Ya hice push -Mario
+=======
+Ya hice push -Paulina XD
+<<<<<<< HEAD
+Ya hice Push - Luis Barrrera
+=======
+>>>>>>> 496ac8a97c4b0fa7472900dc1d09e92abb6f7797
+<<<<<<< HEAD
+>>>>>>> f65afe1f585551c330c826b41024a74157997869
+=======
+>>>>>>> 379ce881c7e81f3ae8f9923ac487af75e0123fba
+>>>>>>> d945081d32afe813520cc6f43b17d8680f599333
+>>>>>>> b6d64e97759ba35cba5a8cec3dc1039145345f44
