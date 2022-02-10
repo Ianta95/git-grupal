@@ -1,4 +1,8 @@
 Escribi yo - Ian
 otro cambio
 ultimo cambio
+<<<<<<< HEAD
 este ya es el ultimo
+=======
+Cambio de ejemplo
+>>>>>>> NuevaRama
