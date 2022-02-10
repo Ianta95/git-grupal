@@ -1,2 +1,10 @@
 Ya hice push -Ian
+<<<<<<< HEAD
 Ya hice push -Christopher
+=======
+<<<<<<< HEAD
+Ya hice push -Mario
+=======
+Ya hice push -Paulina XD
+>>>>>>> 496ac8a97c4b0fa7472900dc1d09e92abb6f7797
+>>>>>>> 2f1b3c07e232f5830cabecc075d7a368c403fd5f
